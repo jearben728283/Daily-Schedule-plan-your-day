@@ -5,8 +5,11 @@ Designed for those people who’re looking for a full-featured app to manage dai
 FEATURES 
 
 1.change theme and photo according to your mood that day
- 2.edit the name and date of your Day one at any time
- 3.Very well designed user interface 
+
+2.edit the name and date of your Day one at any time
+ 
+3.Very well designed user interface 
+ 
 4.Full records searching including event, relationship and living Live an efficient life with Daily Schedule!
 
 Tel:+19096152197
